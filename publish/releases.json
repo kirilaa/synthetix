@@ -783,22 +783,22 @@
 		},
 		{
 			"name": "Peacock",
-			"released": false,
+			"released": true,
 			"version": {
 				"major": 2,
 				"minor": 57
 			},
-			"sips": []
+			"sips": [200]
 		},
 		{
 			"name": "Peacock (Optimism)",
 			"ovm": true,
-			"released": false,
+			"released": true,
 			"version": {
 				"major": 2,
 				"minor": 57
 			},
-			"sips": []
+			"sips": [200]
 		},
 		{
 			"name": "Alsephina",
@@ -807,7 +807,7 @@
 				"major": 2,
 				"minor": 58
 			},
-			"sips": []
+			"sips": [185]
 		},
 		{
 			"name": "Alsephina (Optimism)",
@@ -817,7 +817,7 @@
 				"major": 2,
 				"minor": 58
 			},
-			"sips": []
+			"sips": [185]
 		},
 		{
 			"name": "Mirzam",
